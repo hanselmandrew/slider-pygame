@@ -25,7 +25,7 @@
 Clone this repository to your local machine
 
 ```
-git clone https://github.com/hanselmandrew/XXXXXXX
+git clone https://github.com/hanselmandrew/slider-pygame.git
 ```
 
 ### Setup Environment
